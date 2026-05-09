@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+<AssemblyName> InventarioApp</AssemblyName>  //nombre del ejecutado generado para nuestro proyecto 
+<RootNamespace>InventarioApp</RootNamespace> //es el namespace raiz para organizar el codigo
+<version>1.0.0</version> //version actual 
+<Description>Sistema de gestion de inventario - Curso fundamentos .NET </Description>// descripcion de la funcionalidad
+  </PropertyGroup>
+
+
+</Project>
